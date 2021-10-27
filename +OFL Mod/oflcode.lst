@@ -1,7 +1,7 @@
-;; +OFL Mod Code List
+;; OFL Mod Code List
 ;; Optional tweaks (ensures best quality for both game and mod)
 
-Code "Moderately Fast Screen Transitions"
+Code "Fast Screen Transitions for OFL Mod"
 ;; Sweet spot for the longer game exit sfx that this mod contains
 ;; (You can use this as a reference if your own mods need it)
 ;; (just adjust the value of 27 to change the transition speed to your liking)
