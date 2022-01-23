@@ -1,2 +1,4 @@
-I need help with the mod code file, the loader isn't able to use it.
-The mod is still enjoyable though, so have a good laugh or two.
+Sonic R +OFL Mod by Crimson_Lycan_YT
+Current Version 1.01
+
+Enjoy the mod. If I have any issues during development, I'll place them in this file.
